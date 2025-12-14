@@ -38,7 +38,7 @@
     ```
 ## Añadir las base de datos y las imgs
 url_imgs : https://drive.google.com/drive/folders/1vOZZw3lZMOU6y6WXyjQwQRJYJCFjO-oO?usp=sharing
-url_database: 
+url_database: https://drive.google.com/drive/folders/1j94MI60b1QyGCx_WkC5Ca37VX5FrFKcm?usp=sharing
 ## Ejecución
 
 Para ejecutar la aplicación, usa el siguiente comando:
